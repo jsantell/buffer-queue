@@ -1,0 +1,29 @@
+{
+  "name": "buffer-queue",
+  "version": "1.0.0",
+  "description": "fast buffer storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec --ui bdd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsantell/buffer-queue.git"
+  },
+  "author": "Jordan Santell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsantell/buffer-queue/issues"
+  },
+  "keywords": [
+    "buffer",
+    "store",
+    "queue",
+    "stack"
+  ],
+  "homepage": "https://github.com/jsantell/buffer-queue",
+  "devDependencies": {
+    "chai": "^2.1.1",
+    "mocha": "^2.2.1"
+  }
+}
